@@ -1,0 +1,7 @@
+Pillow~=9.0.1
+opencv-python~=4.5.5.64
+Flask
+gunicorn
+numpy
+https://download.pytorch.org/whl/cpu/torch-1.4.0%2Bcpu-cp36-cp36m-linux_x86_64.whl
+fastai==1.0.51
