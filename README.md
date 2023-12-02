@@ -2,7 +2,7 @@
   <h1>Breast Cancer Prediction App</h1>
   <h4> Predicts Mammogram Images for Breast Cancer using FastAI Library.</h4>
   <h3></h3>
-  <img src="https://github.com/akhoanv/PacmanML/blob/main/screenshot/screenshot2.png?raw=true"/>
+  <img src="https://github.com/tanaypandya1818/Breast-Cancer-Prediction-APP/blob/main/IDC.jpg?raw=true"/>
 </div>
 
 # Requirements
